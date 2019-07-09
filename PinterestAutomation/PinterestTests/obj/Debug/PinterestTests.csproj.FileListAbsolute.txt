@@ -16,3 +16,5 @@ C:\repos\pinterest-tests\PinterestAutomation\PinterestTests\obj\Debug\PinterestT
 C:\repos\pinterest-tests\PinterestAutomation\PinterestTests\obj\Debug\PinterestTests.pdb
 C:\repos\pinterest-tests\PinterestAutomation\PinterestTests\bin\Debug\WebDriver.dll
 C:\repos\pinterest-tests\PinterestAutomation\PinterestTests\bin\Debug\WebDriver.xml
+C:\repos\pinterest-tests\PinterestAutomation\PinterestTests\bin\Debug\WebDriver.Support.dll
+C:\repos\pinterest-tests\PinterestAutomation\PinterestTests\bin\Debug\WebDriver.Support.xml
