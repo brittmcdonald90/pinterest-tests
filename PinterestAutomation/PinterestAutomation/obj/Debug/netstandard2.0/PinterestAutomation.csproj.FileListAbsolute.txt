@@ -1,0 +1,9 @@
+C:\repos\pinterest-tests\PinterestAutomation\PinterestAutomation\bin\Debug\netstandard2.0\PinterestAutomation.deps.json
+C:\repos\pinterest-tests\PinterestAutomation\PinterestAutomation\bin\Debug\netstandard2.0\PinterestAutomation.dll
+C:\repos\pinterest-tests\PinterestAutomation\PinterestAutomation\bin\Debug\netstandard2.0\PinterestAutomation.pdb
+C:\repos\pinterest-tests\PinterestAutomation\PinterestAutomation\obj\Debug\netstandard2.0\PinterestAutomation.csproj.CoreCompileInputs.cache
+C:\repos\pinterest-tests\PinterestAutomation\PinterestAutomation\obj\Debug\netstandard2.0\PinterestAutomation.AssemblyInfoInputs.cache
+C:\repos\pinterest-tests\PinterestAutomation\PinterestAutomation\obj\Debug\netstandard2.0\PinterestAutomation.AssemblyInfo.cs
+C:\repos\pinterest-tests\PinterestAutomation\PinterestAutomation\obj\Debug\netstandard2.0\PinterestAutomation.dll
+C:\repos\pinterest-tests\PinterestAutomation\PinterestAutomation\obj\Debug\netstandard2.0\PinterestAutomation.pdb
+C:\repos\pinterest-tests\PinterestAutomation\PinterestAutomation\obj\Debug\netstandard2.0\PinterestAutomation.csprojAssemblyReference.cache

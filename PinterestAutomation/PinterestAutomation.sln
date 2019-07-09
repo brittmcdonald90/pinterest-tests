@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinterestAutomation", "PinterestAutomation\PinterestAutomation.csproj", "{1099B8E0-11E4-4881-A000-ADB4339634C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinterestTests", "PinterestTests\PinterestTests.csproj", "{27026BB4-ECDC-476E-9CF8-D61EDF1032BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1099B8E0-11E4-4881-A000-ADB4339634C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1099B8E0-11E4-4881-A000-ADB4339634C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1099B8E0-11E4-4881-A000-ADB4339634C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1099B8E0-11E4-4881-A000-ADB4339634C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27026BB4-ECDC-476E-9CF8-D61EDF1032BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27026BB4-ECDC-476E-9CF8-D61EDF1032BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27026BB4-ECDC-476E-9CF8-D61EDF1032BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27026BB4-ECDC-476E-9CF8-D61EDF1032BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01E1BEA9-D799-473A-A0B5-22C7683E3700}
+	EndGlobalSection
+EndGlobal
