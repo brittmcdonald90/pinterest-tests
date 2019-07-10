@@ -5,21 +5,21 @@ using PinterestAutomation;
 namespace PinterestTests
 {
     [TestClass]
-    public class LoginTests
+    public class CreatePostTests
     {
         [TestInitialize]
         public void Init()
         {
             Driver.Initialize();
         }
-         
+
         [TestMethod]
-        public void User_Login()
+        public void Can_Create_Basic_Post()
         {
             LoginPage.GoTo();
             LoginPage.LoginAs("brittmcdonald90@gmail.com").WithPassword("Testpassword1").Login();
 
-            //Assert.IsTrue(DashboardPage.IsAt, "Failed to login.");
+            Assert.IsTrue(DashboardPage.IsAt, "Failed to login.");
         }
 
         //[TestCleanup]
